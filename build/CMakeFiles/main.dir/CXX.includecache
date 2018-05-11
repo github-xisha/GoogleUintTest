@@ -1,0 +1,26 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/xisha/MyGitHub/GoogleUnitTest/src/BuildSrc/MathCalculate.cpp
+MathCalculate.h
+/home/xisha/MyGitHub/GoogleUnitTest/src/BuildSrc/MathCalculate.h
+iostream
+-
+string
+-
+
+/home/xisha/MyGitHub/GoogleUnitTest/src/BuildSrc/MathCalculate.h
+
+/home/xisha/MyGitHub/GoogleUnitTest/src/MathCalculate/MathCalculate.h
+
+/home/xisha/MyGitHub/GoogleUnitTest/test/BuildTest/MathCalculateTest.cpp
+gtest/gtest.h
+/home/xisha/MyGitHub/GoogleUnitTest/test/BuildTest/gtest/gtest.h
+../../src/MathCalculate/MathCalculate.h
+/home/xisha/MyGitHub/GoogleUnitTest/src/MathCalculate/MathCalculate.h
+
