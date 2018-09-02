@@ -1,7 +1,0 @@
-/home/xisha/MyGitHub/GoogleUnitTest/build/CMakeFiles/rebuild_cache.dir
-/home/xisha/MyGitHub/GoogleUnitTest/build/CMakeFiles/edit_cache.dir
-/home/xisha/MyGitHub/GoogleUnitTest/build/CMakeFiles/main.dir
-/home/xisha/MyGitHub/GoogleUnitTest/build/test/BuildTest/CMakeFiles/rebuild_cache.dir
-/home/xisha/MyGitHub/GoogleUnitTest/build/test/BuildTest/CMakeFiles/edit_cache.dir
-/home/xisha/MyGitHub/GoogleUnitTest/build/src/BuildSrc/CMakeFiles/rebuild_cache.dir
-/home/xisha/MyGitHub/GoogleUnitTest/build/src/BuildSrc/CMakeFiles/edit_cache.dir

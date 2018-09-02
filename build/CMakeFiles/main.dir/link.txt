@@ -1,1 +1,0 @@
-/usr/bin/c++    -rdynamic CMakeFiles/main.dir/src/BuildSrc/MathCalculate.cpp.o CMakeFiles/main.dir/test/BuildTest/MathCalculateTest.cpp.o  -o ../bin/main  -L/home/xisha/MyGitHub/GoogleUnitTest/lib -Wl,-rpath,/home/xisha/MyGitHub/GoogleUnitTest/lib -lgtest -lpthread 
